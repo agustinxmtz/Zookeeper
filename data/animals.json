@@ -110,11 +110,11 @@
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
+      "name": "Shiba",
+      "species": "Dog",
       "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "anxious"
       ],
       "id": "11"
     }
